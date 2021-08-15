@@ -10,31 +10,31 @@ sudo -H pip3 install pytest
 ```
 
 
-- ## 03 Premedio Calificaciones
+- ## 01 Promedio Calificaciones
     ### Run command
     ```
     pytest assignments/03Promedio
     ```
 
-- ## 06 Calcula peso por mes
+- ## 02 Calcula peso por mes
     ### Run command
     ```
     pytest assignments/06Peso
     ```
 
-- ## 07 Pendiente Línea
+- ## 03 Pendiente Línea
     ### Run command
     ```
     pytest assignments/07PendienteLinea
     ```
 
-- ## 11 PEMDAS
+- ## 04 PEMDAS
     ### Run command
     ```
     pytest assignments/11PEMDAS
     ```
 
-- ## 18 Cuenta Bancaria
+- ## 05 Cuenta Bancaria
     ### Run command
     ```
     pytest assignments/18CuentaBancaria
