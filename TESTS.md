@@ -6,7 +6,10 @@
 `nota:` para todo las pruebas puedes usar esta configuración:
 ### Setup command (optional)
 ```
+Mac:
 sudo -H pip3 install pytest
+Windows:
+pip3 install pytest
 ```
 
 
